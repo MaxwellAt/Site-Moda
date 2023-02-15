@@ -1,0 +1,79 @@
+body{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: row;
+ margin: 0;
+}
+div{
+ width: 50%;
+ height: 100%;
+}
+.two{
+ display:flex;
+ background-color:green;
+ align-items: center;
+}
+h1{
+ font-family: 'Mandali';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 25px;
+ /* line-height: 70px; */
+ color: #000000;
+ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+p{
+ font-family: 'Mandali';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 32px;
+ color: #000000;
+}
+button{
+ width: 218px;
+ height: 47px;
+ left: 140px;
+ background: green;
+ border: 0px;
+ border-radius: 1em;
+ margin: 3em 0em;
+ top: 703px;
+}
+
+.menu-container {
+  display: flex;
+  background: #ffffff;
+  padding: 20px;
+  /* user-select: none; */
+  /* box-sizing: border-box; */
+  /* width: 100%; */
+}
+
+.menu-container a {
+  text-decoration: none;
+  /* transition: color 0.3s ease; */
+  color: #010000;
+  /* font-family: 'Mandali'; */
+  /* font-style: normal; */
+  /* font-weight: 400; */
+  font-size: 20px;
+  /* line-height: 1px; */
+}
+
+.menu-container a:hover {
+  color: #015b08;
+}
+
+.menu ul {
+  display: flex;
+  /* padding: 0; */
+  list-style: none;
+}
+
+.menu li {
+  padding: 10px 0;
+  /* font-size: 22px; */
+  padding: 0 2em;
+}

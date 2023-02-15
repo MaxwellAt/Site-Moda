@@ -1,0 +1,50 @@
+img{
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 460px;
+  height: 360px;
+  border: 100px;
+
+}
+
+p{
+  color:rgb(0, 0, 0);
+  font-family: serif;
+  font-size: 190%;
+  text-align: center;
+}
+ul {
+  color:rgb(0, 0, 0);
+  font-family: serif;
+  font-size: 190%;
+}
+body{  background-color:rgb(255, 255, 255)    }
+h1{
+  color:rgb(0, 0, 0);
+  font-family: serif;
+  font-size: 450%;
+  text-align: center;}
+    
+.navbar {
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #c5c5c5;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: rgb(255, 255, 255);
+  color: black;
+}
