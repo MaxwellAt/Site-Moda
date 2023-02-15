@@ -1,7 +1,7 @@
 # Site-Moda
 ##
-### WebSite que usa MySql e PHP no backend para fazer CRUD e administração de senhas com login. Site apenas para demonstração de skills
-###Formas de usar.
+## WebSite que usa MySql e PHP no backend para fazer CRUD e administração de senhas com login. Site apenas para demonstração de skills
+### Formas de usar.
 OBS: O baco de dados foi gerenciado pelo XAMPP durante a fase teste da aplicação
 
 1. Baixe o arquivo comprimido e extraia um arquivo dentro de uma pasta no diretorio do seu gerenciador de BD. No meu caso, o diretorio do XAMPP fica em "/opt/lampp/htdocs".
